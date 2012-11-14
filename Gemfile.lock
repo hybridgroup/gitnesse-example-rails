@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/hybridgroup/gitnesse.git
-  revision: 01041ef0cf48c4aa24439d691cd3fa1204734a9e
+  revision: ca52c4c30a2a0953060571cddc8d6a32223394e2
   specs:
     gitnesse (0.0.1)
       bundler

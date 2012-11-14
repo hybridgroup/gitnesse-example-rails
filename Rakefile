@@ -5,3 +5,6 @@
 require File.expand_path('../config/application', __FILE__)
 
 GitnesseExampleRails::Application.load_tasks
+
+require "gitnesse/tasks"
+Gitnesse::Tasks.new
