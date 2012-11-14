@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/hybridgroup/gitnesse.git
-  revision: b24b21299433392985438c773cb1cbd7e6aa1da6
+  revision: 01041ef0cf48c4aa24439d691cd3fa1204734a9e
   specs:
     gitnesse (0.0.1)
-      bundler (~> 1.2.1)
+      bundler
       gollum (~> 2.3.12)
 
 GEM
